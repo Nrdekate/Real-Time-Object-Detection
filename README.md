@@ -1,5 +1,5 @@
 # Real-Time-Object-Detection
-Object detection is one of the classical problems in computer vision.It was fun some quarantine learning.
+Object detection is one of the classical problems in computer vision.
 <br><br>
 
 # Yolo-V3
