@@ -12,6 +12,8 @@ This is the list of dependencies for running this application.
  * **Pickle**
  * **argparse**
  * **Opencv**
+ * **Numpy**
+ * **Pandas**
 <br><br>
 # Some Output snaps:<br><br>
 ![sample images](snap/snap.png "images in mnist dataset")<br><br>
